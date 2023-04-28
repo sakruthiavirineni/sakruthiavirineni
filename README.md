@@ -1,3 +1,4 @@
+![logo](https://github.com/sakruthiavirineni/sakruthiavirineni/blob/main/GitHub_Image.gif)
 <h1 align="center">Hi 👋, I'm Sakruthi Avirineni</h1>
 <h3 align="center">A passionate full-stack developer builds web applications and solve real world problems.</h3>
 
@@ -27,5 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakruthiavirineni&show_icons=true&locale=en" alt="sakruthiavirineni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakruthiavirineni&" alt="sakruthiavirineni" /></p>
-<h3 align="left">Support:</h3>
+
 
