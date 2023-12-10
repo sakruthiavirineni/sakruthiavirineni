@@ -2,14 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sakruthi Avirineni 👩 </h1>
 <h3 align="center">A passionate full-stack developer builds web applications and solve real world problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakruthiavirineni&label=Profile%20views&color=0e75b6&style=flat" alt="sakruthiavirineni" /> </p>
-
-
-- 👨‍💻 All of my projects are available at [sakruthiavirineni.com](sakruthiavirineni.com)
-
 - 📫 How to reach me **sakruthi.avirineni@gmail.com**
-
-- 📄 Know about my experiences [sakruthiavirineni.com](sakruthiavirineni.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
