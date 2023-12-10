@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakruthiavirineni&label=Profile%20views&color=0e75b6&style=flat" alt="sakruthiavirineni" /> </p>
 
 
-
 - 👨‍💻 All of my projects are available at [sakruthiavirineni.com](sakruthiavirineni.com)
 
 - 📫 How to reach me **sakruthi.avirineni@gmail.com**
